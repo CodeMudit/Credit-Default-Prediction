@@ -171,6 +171,17 @@ Include screenshots here after deployment.
 
 ---
 
+## Live Demo
+
+Frontend:
+https://credit-default-prediction-2.streamlit.app
+
+Backend:
+https://credit-default-prediction-2.onrender.com
+
+API Docs:
+https://credit-default-prediction-2.onrender.com/docs
+
 ## Author
 
 **Mudit Sapra**
