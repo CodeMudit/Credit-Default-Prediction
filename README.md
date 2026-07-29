@@ -152,11 +152,11 @@ Include screenshots here after deployment.
 
 ### Home Page
 
-*Add screenshot here*
+![alt text](<Screenshot From 2026-07-29 23-39-55.png>)
 
 ### Prediction Result
 
-*Add screenshot here*
+![alt text](<Screenshot From 2026-07-29 23-40-30.png>)
 
 
 ---
