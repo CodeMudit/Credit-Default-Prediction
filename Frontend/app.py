@@ -110,7 +110,7 @@ if submitted:
     }
 
     response = requests.post(
-        "http://127.0.0.1:8000/predict/",
+        "https://credit-default-prediction-2.onrender.com/predict/",
         json = data
 
     )
